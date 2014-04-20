@@ -1,7 +1,7 @@
 WordFinder
 ==========
 
-Some practice in which a grid of letters is randomly generated, and then words are found within the grid.
+A project created to demonstrate design style for projects and scripts not large enough to warrant a framework. It creates a grid full of random letters and then finds words inside of this grid both horizontally and vertically.
 
 Todo:
 
